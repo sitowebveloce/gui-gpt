@@ -38,7 +38,7 @@ Before ask any question to GUI-GPT-Veloce you **must** provide a valid **OperAI 
 
 to get it you must sign up on the site [openai.com](https://openai.com/)
 
-**Note:** GUI-GPT-VELOCE **must be** executed **as administrator*** on Windows systems. 
+**Note:** GUI-GPT-VELOCE **must be** executed **as administrator** on Windows systems. 
 
 If you try to run the program without administrator privileges, you may encounter errors or unexpected behavior.
 
