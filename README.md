@@ -10,7 +10,9 @@ At this time  **<span style='color:red'>only the completion</span>** works, not 
 
 Download the latest version at this [link](https://github.com/sitowebveloce/gui-gpt/releases)
 
+## Video Tutorial
 
+Link to the [video tutorial](https://youtu.be/JionVvA13jM)
 
 ## Installation
 
